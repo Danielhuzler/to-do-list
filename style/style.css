@@ -1,0 +1,29 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn{
+  display : inline-block;
+  padding: 0.5em 1.5rem;
+  text-transform: capitalize;
+  font-size: 1.25rem;
+  font-weight: 600;
+  background-color: rgb(1, 10, 59);
+  color: azure;
+  border: 2px solid black;
+}
+
+.form-item{
+  width: 90%;
+  height: 5rem;
+  display: flex;
+  align-items:center ;
+  justify-content: center;
+
+}
+.input-form{
+  padding: 0.5em 1.5rem;
+  font-size: 1.25rem;
+} 
